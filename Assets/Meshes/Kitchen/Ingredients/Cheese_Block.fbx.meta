@@ -3,7 +3,17 @@ guid: 558755952029b894babbbaf63405d8f4
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Holes
+    second: {fileID: 2100000, guid: 37d9050871ca43f488fef7b76b0cc33e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yellow
+    second: {fileID: 2100000, guid: 4bd74d951e842174ebc5ba0586497e0b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
