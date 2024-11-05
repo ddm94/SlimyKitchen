@@ -160,6 +160,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Container_Counter
       objectReference: {fileID: 0}
+    - target: {fileID: 3279316721353282252, guid: efbdc4b2608179d43a74ff539055d37f,
+        type: 3}
+      propertyPath: m_Center.x
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 3279316721353282252, guid: efbdc4b2608179d43a74ff539055d37f,
+        type: 3}
+      propertyPath: m_Center.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 9062233986981411874, guid: efbdc4b2608179d43a74ff539055d37f,
         type: 3}
       propertyPath: m_LocalPosition.x

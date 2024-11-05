@@ -28,7 +28,10 @@ public class KitchenObject : MonoBehaviour
 
         // Set position to the new clear counter follow point
         transform.parent = kitchenObjectParent.GetKitchenObjectFollowTransform();
+
+        // Ensure the KitchenObject's position and rotation remain unchanged
         transform.localPosition = Vector3.zero;
+        transform.localRotation = Quaternion.identity;
     }
 
     public IKitchenObjectParent GetKitchenObjectParent() { return kitchenObjectParent; }

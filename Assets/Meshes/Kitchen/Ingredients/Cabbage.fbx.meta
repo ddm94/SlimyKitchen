@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 610c4180f2100004092c6b9811719fb7
+guid: d73106397b19c634aad8c625a4e8f519
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -7,23 +7,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Counter_Base
-    second: {fileID: 2100000, guid: eb3e87a6f9fc07240b618c7c87f99760, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Counter_Base_Interior
-    second: {fileID: 2100000, guid: 1b929e99c8600284fbfea6de4289714e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Counter_Top
-    second: {fileID: 2100000, guid: 7f22a91740f43384ca102cbb6b43a82d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal
-    second: {fileID: 2100000, guid: 6df87033ced739148ad553b4479bc66e, type: 2}
+      name: Green_Salad
+    second: {fileID: 2100000, guid: 5e26d41faa99bc349932090d1ed48c9e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

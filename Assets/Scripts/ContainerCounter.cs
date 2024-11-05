@@ -9,8 +9,8 @@ public class ContainerCounter : BaseCounter
 
     public override void Interact(Player player)
     {
-        // Prevents spawning infinite kitchen objects
-        if (!HasKitchenObject())
+        // The Player is not carrying a KitchenObject
+        if (!player.HasKitchenObject())
         {
             // Spawn a kitchen object
             Transform kitchenObjectTransform = Instantiate(kitchenObjectSO.prefab);
