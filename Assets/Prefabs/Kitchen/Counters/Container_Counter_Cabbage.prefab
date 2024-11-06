@@ -25,6 +25,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Container_Counter_Cabbage
       objectReference: {fileID: 0}
+    - target: {fileID: 4312495562953819022, guid: fec651ee49e8d3c44bf89c0dfa5301bc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5621148789180025532, guid: fec651ee49e8d3c44bf89c0dfa5301bc,
         type: 3}
       propertyPath: m_LocalPosition.x

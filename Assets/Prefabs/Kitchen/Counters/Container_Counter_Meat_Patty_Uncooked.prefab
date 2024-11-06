@@ -18,12 +18,22 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 44feace03861b384ab6aa04cdbb94110,
+      objectReference: {fileID: 21300000, guid: 3aca429bf2e84db44a0939573e0e7076,
         type: 3}
+    - target: {fileID: 2166143162565951529, guid: fec651ee49e8d3c44bf89c0dfa5301bc,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 3634537758092302197, guid: fec651ee49e8d3c44bf89c0dfa5301bc,
         type: 3}
       propertyPath: m_Name
       value: Container_Counter_Meat_Patty_Uncooked
+      objectReference: {fileID: 0}
+    - target: {fileID: 4312495562953819022, guid: fec651ee49e8d3c44bf89c0dfa5301bc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5621148789180025532, guid: fec651ee49e8d3c44bf89c0dfa5301bc,
         type: 3}
