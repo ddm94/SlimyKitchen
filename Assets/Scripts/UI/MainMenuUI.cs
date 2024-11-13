@@ -26,5 +26,8 @@ public class MainMenuUI : MonoBehaviour
             Application.Quit();
 #endif
         });
+
+        // This ensures that if we pause the game and go back to the main menu, the time scale will reset to normal.
+        Time.timeScale = 1f;
     }
 }
