@@ -18,8 +18,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 5b30af5cd8c6e8541b79cfbf6ad0cf1c,
+      objectReference: {fileID: 21300000, guid: 7638240cfc23bee419ea94154e2aacd8,
         type: 3}
+    - target: {fileID: 2166143162565951529, guid: fec651ee49e8d3c44bf89c0dfa5301bc,
+        type: 3}
+      propertyPath: m_WasSpriteAssigned
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 2385475988912823483, guid: fec651ee49e8d3c44bf89c0dfa5301bc,
         type: 3}
       propertyPath: m_LocalRotation.w

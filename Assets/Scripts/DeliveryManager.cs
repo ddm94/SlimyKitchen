@@ -41,11 +41,11 @@ public class DeliveryManager : MonoBehaviour
         {
             spawnRecipeTimer = spawnRecipeTImerMax;
 
-            // Spawn a new recipe only if under the max recipe count
-            if (waitingRecipeSOList.Count < waitingRecipeMax )
+            // Spawn a new recipe only if the game has started AND under the max recipe count
+            if (GameManager.Instance.IsGamePlaying() && waitingRecipeSOList.Count < waitingRecipeMax)
             {
                 // Grab a random recipe from the list
-                RecipeSO waitingRecipeSO = recipeListSO.recipeSOList[UnityEngine.Random.Range(0, recipeListSO.recipeSOList.Count - 1)];
+                RecipeSO waitingRecipeSO = recipeListSO.recipeSOList[UnityEngine.Random.Range(0, recipeListSO.recipeSOList.Count)];
                 //Debug.Log(waitingRecipeSO.recipeName);
 
                 // Add it to the waiting list
