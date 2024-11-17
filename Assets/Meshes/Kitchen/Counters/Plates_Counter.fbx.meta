@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Counter_Base
-    second: {fileID: 2100000, guid: eb3e87a6f9fc07240b618c7c87f99760, type: 2}
+    second: {fileID: 863184095204529749, guid: 37d63d3d49ac6dc41abb293c186b4987, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

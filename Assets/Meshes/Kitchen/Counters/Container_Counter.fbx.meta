@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 610c4180f2100004092c6b9811719fb7
+guid: b14a02e3439265649a29914771e4561d
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Counter_Base
-    second: {fileID: 2100000, guid: eb3e87a6f9fc07240b618c7c87f99760, type: 2}
+    second: {fileID: 863184095204529749, guid: 37d63d3d49ac6dc41abb293c186b4987, type: 3}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

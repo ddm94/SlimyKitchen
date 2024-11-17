@@ -1,34 +1,9 @@
 fileFormatVersion: 2
-guid: 32d20043994fbc441954b5ceef7de4b7
+guid: 37d63d3d49ac6dc41abb293c186b4987
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Board
-    second: {fileID: 2100000, guid: 392ae783c626f8544a245200ce1eb423, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Counter_Base
-    second: {fileID: 2100000, guid: eb3e87a6f9fc07240b618c7c87f99760, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Counter_Top
-    second: {fileID: 2100000, guid: 7f22a91740f43384ca102cbb6b43a82d, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Metal
-    second: {fileID: 2100000, guid: 6df87033ced739148ad553b4479bc66e, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Wood
-    second: {fileID: 2100000, guid: 6cec00b6ec447f04d8766a95d22fea2e, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0
